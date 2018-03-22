@@ -5,6 +5,10 @@
 import numpy as np
 import cv2
 
+'''
+click on the pixel will print the RGB color of pixel.
+'''
+
 img = cv2.imread('squ.jpg')
 
 
